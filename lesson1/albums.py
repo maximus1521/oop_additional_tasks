@@ -21,9 +21,9 @@
 """
 
 
-class ...:
+class Album:
 
-    def ...:
+    def __init__(:
     ...
 
 
